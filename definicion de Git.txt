@@ -1,0 +1,1 @@
+Git es un sistema maduro de control de revisiones de código abierto que se mantiene activo y lo utilizan miles de desarrolladores en todo el mundo.
